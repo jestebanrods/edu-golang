@@ -1,0 +1,8 @@
+**/bin
+**/node_modules
+**/vendor
+**/.serverless
+
+conf.squad.yml
+serverless.yml
+Makefile
